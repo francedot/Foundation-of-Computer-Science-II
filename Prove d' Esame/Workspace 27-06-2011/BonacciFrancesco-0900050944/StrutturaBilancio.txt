@@ -1,0 +1,9 @@
+#define ccEnrico contocorrente 2000
+#define ccAmbra contocorrente 1500
+#define ccGabriele contocorrente 100
+#define visaED cartadicredito 1500
+#define visaAM cartadicredito 1000
+#define mastercardGZ cartadicredito 1700
+#define portafogliED liquidi
+#define borsaAM liquidi
+#define portafogliGZ liquidi

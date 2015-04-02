@@ -1,0 +1,31 @@
+Bologna; 12/07/2011; 02.00; 18.5°; 91%; pioggia
+Bologna; 12/07/2011; 05.00; 16°; 92%; nuvoloso
+Bologna; 12/07/2011; 08.00; 20°; 87%; sereno
+Bologna; 12/07/2011; 11.00; 24°; 64%; sereno
+Bologna; 12/07/2011; 14.00; 27°; 78%; tempesta
+Bologna; 12/07/2011; 17.00; 15°; 58%; nuvoloso
+Bologna; 12/07/2011; 20.00; 16°; 58%; nuvoloso
+Bologna; 12/07/2011; 23.00; 16°; 58%; sereno
+Bologna; 14/07/2011; 11.00; 24°; 64%; sereno
+Bologna; 14/07/2011; 14.00; 27°; 78%; tempesta
+Bologna; 14/07/2011; 17.00; 15°; 58%; nuvoloso
+Bologna; 14/07/2011; 20.00; 16°; 58%; nuvoloso
+Bologna; 14/07/2011; 23.00; 16°; 58%; sereno
+Ferrara; 12/07/2011; 02.00; 18°; 91%; nebbia
+Ferrara; 12/07/2011; 10.00; 16°; 92%; neve
+Ferrara; 12/07/2011; 18.00; 20.8°; 87%; nebbia
+Ferrara; 15/07/2011; 05.00; 18°; 91%; sereno
+Ferrara; 15/07/2011; 15.00; 16°; 92%; sereno
+Ferrara; 15/07/2011; 22.00; 20.8°; 87%; nuvoloso
+Reggio Emilia; 12/07/2011; 02.00; -1°; 91%; neve
+Reggio Emilia; 12/07/2011; 10.00; -1°; 92%; neve
+Reggio Emilia; 12/07/2011; 18.00; 6°; 87%; pioggia
+Reggio Emilia; 15/07/2011; 05.00; 20°; 91%; sereno
+Reggio Emilia; 15/07/2011; 15.00; 34°; 92%; sereno
+Reggio Emilia; 15/07/2011; 22.00; 25°; 87%; nuvoloso
+Pesaro; 12/07/2011; 02.00; 25°; 91%; sereno
+Pesaro; 12/07/2011; 10.00; 35°; 92%; sereno
+Pesaro; 12/07/2011; 18.00; 20°; 87%; pioggia
+Pesaro; 15/07/2011; 05.00; 20°; 91%; nuvoloso
+Pesaro; 15/07/2011; 15.00; 34°; 92%; sereno
+Pesaro; 15/07/2011; 22.00; 25°; 87%; nuvoloso
